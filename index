@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Auto-Refresh Google Sheet</title>
+    <!-- Refresh every 60 seconds -->
+    <meta http-equiv="refresh" content="60">
+</head>
+<body>
+    <iframe 
+        src="https://docs.google.com/spreadsheets/d/1h_y0YozQMun9yXbAD1WhFYE7RM6UFdd9P2wMSa_o29A/htmlembed/sheet?gid=0&range=a1:s58" 
+        width="100%" 
+        height="1000px" 
+        style="border: none;">
+    </iframe>
+</body>
+</html>
